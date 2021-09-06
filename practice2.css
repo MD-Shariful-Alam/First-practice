@@ -1,0 +1,64 @@
+.link-button{
+    text-decoration: none;
+    background-color:tomato;
+    color: white;
+    font-size: large;
+    border-radius: 3px;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, salmon, tomato);
+}
+
+.top-banner{
+   height: 300px;
+   margin-bottom: 150px;
+   background-image: url(photos/header-bg.png);
+}
+section{
+    height: 400px;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 450px;
+    height: 300px;
+}
+body{
+    margin: 0;
+}
+.biography{
+    background-image: url(photos/biography-bg.png);
+}
+.latest-work{
+    background-image: url(photos/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.half-width2{
+    width: 28%;
+    float: left;
+    margin-left: 2px;
+}
+.another-class{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+   
+    
+}
+.another-class img{
+    width: 300px;
+    height: 250px;
+}
+.last-section{
+    background-image: url(photos/footer-bg.png);
+}
+#first{
+    max-width: 30%;
+    text-align: center;
+    margin-left: 30%;
+    
+}
